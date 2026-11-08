@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="160" viewBox="0 0 500 160">
+  <rect width="500" height="160" fill="#dfeeff"/>
+  <circle cx="85" cy="80" r="52" fill="#3c7ae0"/>
+  <circle cx="85" cy="80" r="28" fill="#ffffff" opacity="0.9"/>
+  <path d="M60 75 L85 50 L110 75 L85 100 Z" fill="#3c7ae0"/>
+  <text x="160" y="92" font-size="30" font-family="Arial, sans-serif" font-weight="bold" fill="#1d3557">CSE 340</text>
+  <text x="160" y="122" font-size="22" font-family="Arial, sans-serif" fill="#1d3557">Service Network</text>
+</svg>
